@@ -1,0 +1,11 @@
+authors = ["William Herrera <wherrera@alahonua.com>"]
+name = "SailingPolars"
+uuid = "294d1309-5f28-4013-8ad2-3f38fad2e267"
+version = "0.0.1"
+
+[deps]
+DelimitedFiles = "8bb1440f-4735-579b-a4ab-409b98df4dab"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[compat]
+julia = "1"
